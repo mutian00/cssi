@@ -1,0 +1,51 @@
+html{
+	text-align: center;
+}
+
+div{
+	overflow: hidden;
+}
+
+ul{
+	list-style-type: none;
+	list-style-position: inside;
+	padding: 0;
+}
+
+#header{
+	background-color: #08af22;
+	bottom: -5px;
+	top: 0px;
+}
+
+#info {
+	background-color: #4a75e6;
+}
+
+#school-image{
+	margin-bottom: 20px;
+}
+
+#links {
+	border-style: solid;
+	border-width: 5px;
+	border-color: #ea2533;
+	display: inline;
+}
+
+.link{
+	padding: 5px;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#students{
+	background-color: #febc1f;
+}
+
+.rounded{
+	border: 1px solid #000000;
+	border-radius: 50%;
+}
