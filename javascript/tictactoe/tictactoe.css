@@ -1,0 +1,21 @@
+body{
+	display: flex;
+	flex-direction: column;
+}
+
+.column{
+	display: flex;
+	flex-direction: column;
+}
+
+.row{
+	display: flex;
+	flex-direction: row;
+}
+
+.box{
+	height: 100px;
+	width: 100px;
+	background-color: white;
+	border: .1px solid #000000;
+}
